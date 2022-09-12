@@ -1,5 +1,7 @@
 # About this project
 
+<img width="748" alt="Screen Shot 2022-09-12 at 2 30 18 PM" src="https://user-images.githubusercontent.com/37456799/189739581-56398d3e-458d-48fe-b25a-462b147e7fb9.png">
+
 We have all played the classic video game Tetris. In this version, you can play it in your browser in the comfort of your computer in your free time (or while you work, I won't tell anyone ;)).
 
 The game is structured entirely in React and uses a move() function that allows us to capture and identify the buttons that have been pressed. This helps us to determine the behavior of the piece with respect to the game board (and to know its limits) and control it.
